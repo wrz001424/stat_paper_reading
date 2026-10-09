@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文通读与统计方法解读"
+  short_description: "通读论文的核心算法、统计思想、主要定理、数据来源、算力与前沿，不展开证明"
+  default_prompt: "使用 $stat-paper-reading 通读我提供的论文，重点讲清核心算法，输出中文 paper-reading.md，不展开证明。"
